@@ -1,10 +1,11 @@
 # Where Customers Come From and What They Buy?
 
-This project explores customer behavior and purchasing patterns across 100+ countries using data on sessions, accounts, and orders.
-It identifies top-performing markets, product categories, devices, and traffic channels, revealing how different types of users (registered vs unregistered) contribute to overall revenue.
+This project analyzes where customers come from and what they buy, using data on sessions, accounts, and orders collected from 100+ countries.
+The goal is to understand key sales drivers, evaluate user behavior across markets, and find opportunities for business growth.
 
-Using SQL (BigQuery), Python, and Tableau, the analysis combines data transformation, descriptive analytics, and statistical testing (correlation and ANOVA) to uncover sales trends, weekly dynamics, and behavioral insights.
-The results highlight clear seasonality, strong desktop dominance, and untapped potential in user registration and mobile channels.
+With SQL (BigQuery), Python, and Tableau, I performed full-cycle analysis — from data extraction and cleaning to visualization and statistical testing.
+The study covers market segmentation, sales patterns by continent, device, and traffic channel, and explores behavioral differences between registered and unregistered users.
+Statistical methods such as correlation analysis and ANOVA were applied to measure relationships and test group differences.
 
 ## Tools: 
 - SQL (BigQuery), 
